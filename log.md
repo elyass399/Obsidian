@@ -1,0 +1,53 @@
+- [MERGE] 'neurons' vs 'neurons' (score: 1.00) → Le due entità sono identiche sia nel nome che nella rappresentazione.
+- [NUOVO] 'Deep Learning' vs 'Machine Learning' (score: 0.78) → Deep Learning è un sottoinsieme di Machine Learning basato su reti neurali artificiali con molteplici livelli di astrazione.
+- [NUOVO] 'Deep Learning' vs 'Neural Networks' (score: 0.77) → Il Deep Learning è un sottoinsieme del Machine Learning che utilizza reti neurali (Neural Networks) con molteplici strati, ma non tutte le Neural Networks sono Deep Learning (ad esempio, reti neurali con un solo strato nascosto non sono considerate Deep Learning).
+- [MERGE] 'Machine Learning' vs 'Machine Learning' (score: 1.00) → Le due entità hanno la stessa stringa di testo e rappresentano quindi lo stesso concetto.
+- [MERGE] 'Neural Networks' vs 'Neural Networks' (score: 1.00) → Le due entità sono identiche sia nel nome che nel significato.
+- [MERGE] 'brain' vs 'brain' (score: 1.00) → Le due entità sono identiche sia nel testo che nel significato.
+- [MERGE] 'nervous system' vs 'nervous system' (score: 1.00) → Le due entità sono identiche sia nel testo che nel significato.
+- [MERGE] 'neurons' vs 'neurons' (score: 1.00) → Le due entità sono identiche sia nel nome che nel contesto.
+- [MERGE] 'neuron' vs 'neuron' (score: 1.00) → Le due entità hanno lo stesso nome e significato nel contesto del Machine Learning.
+- [MERGE] 'microns' vs 'microns' (score: 1.00) → Le due entità sono identiche in termini di stringa e significato.
+- [MERGE] 'inputs' vs 'inputs' (score: 1.00) → Le due entità sono identiche sia nel nome che nel contenuto.
+- [MERGE] 'output' vs 'output' (score: 1.00) → Le due entità sono identiche in termini di stringa e significato.
+- [MERGE] 'axon' vs 'axon' (score: 1.00) → Le due entità sono identiche in stringa e significato.
+- [MERGE] 'Action potentials' vs 'action potentials' (score: 1.00) → Le due entità differiscono solo per la maiuscola iniziale, che non altera il significato nel contesto di Machine Learning.
+- [MERGE] 'Artificial Neural Network' vs 'Artificial Neural Network' (score: 1.00) → Le due entità sono identiche sia nel nome che nella formulazione.
+- [MERGE] 'nodes' vs 'nodes' (score: 1.00) → Le due entità hanno lo stesso nome e rappresentano quindi la stessa cosa.
+- [MERGE] 'weights' vs 'weights' (score: 1.00) → Le due entità hanno esattamente lo stesso nome e significato.
+- [MERGE] 'synapses' vs 'synapses' (score: 1.00) → Le due entità sono identiche sia nel nome che nella forma.
+- [MERGE] 'Perceptron' vs 'Perceptron' (score: 1.00) → Le due entità hanno esattamente lo stesso nome e si riferiscono alla stessa architettura di base del machine learning.
+- [MERGE] 'Weighted sum' vs 'Weighted sum' (score: 1.00) → Le due entità hanno lo stesso nome e descrizione esatta.
+- [NUOVO] 'inputs to node j' vs 'inputs to node' (score: 0.82) → Le entità differiscono per specificità: la prima include un riferimento specifico a 'node j', mentre la seconda è generica ('node').
+- [NUOVO] 'Limiting non linear transfer function' vs 'non linear transfer function' (score: 0.86) → La prima entità include il concetto di 'limiting', che specifica una condizione aggiuntiva rispetto alla seconda.
+- [MERGE] 'Feed-forward neural networks' vs 'Feed-forward neural networks' (score: 1.00) → Le due entità hanno la stessa denominazione e descrizione.
+- [MERGE] 'Multilayer perceptrons' vs 'Multilayer perceptrons' (score: 1.00) → Le due entità sono identiche come stringa.
+- [MERGE] 'Input layer' vs 'Input layer' (score: 1.00) → Le due entità hanno lo stesso nome e quindi rappresentano la stessa cosa.
+- [MERGE] 'Hidden Layer' vs 'Hidden Layer' (score: 1.00) → Le due entità hanno lo stesso nome e significato nel contesto del Machine Learning.
+- [MERGE] 'Output layer' vs 'Output layer' (score: 1.00) → Le due entità hanno lo stesso nome e si riferiscono alla stessa componente in un modello di Machine Learning.
+- [MERGE] 'Information flow' vs 'Information flow' (score: 1.00) → Le due entità sono identiche sia nel testo che nel significato.
+- [MERGE] 'Data' vs 'Data' (score: 1.00) → Le due entità hanno lo stesso nome e valore, quindi rappresentano la stessa cosa.
+- [NUOVO] 'Animal vision' vs 'Computer Vision' (score: 0.72) → Animal vision si riferisce alla visione degli animali, mentre Computer Vision è un campo dell'IA che studia come i computer possono interpretare immagini e video.
+- [NUOVO] 'Visual processing' vs 'Visual attention' (score: 0.76) → Visual processing si riferisce alla capacità del sistema visivo di interpretare e comprendere le informazioni visive, mentre visual attention riguarda la capacità di selezionare e focalizzare su specifici stimoli visivi.
+- [NUOVO] 'Human cortex' vs 'human brain' (score: 0.78) → Il 'cortex cerebrale' (Human cortex) è solo una parte specifica del 'cervello umano' (human brain), non l'intero organo.
+- [NUOVO] 'Human cortex' vs 'brain' (score: 0.71) → Il 'Human cortex' si riferisce specificamente alla corteccia cerebrale (strato esterno del cervello), mentre 'brain' indica l'intero organo cerebrale.
+- [MERGE] 'Artificial vision' vs 'Computer Vision' (score: 0.79) → Entrambe le espressioni si riferiscono allo stesso campo di studio che si occupa dell'elaborazione automatica di immagini e video per estrarre informazioni significative.
+- [MERGE] 'Machine Learning' vs 'Machine Learning' (score: 1.00) → Le due entità hanno la stessa stringa di testo.
+- [NUOVO] 'Supervised learning' vs 'Machine Learning' (score: 0.78) → Supervised learning è un sottoinsieme di Machine Learning in cui il modello viene addestrato su dati etichettati, mentre Machine Learning è un campo più ampio che include anche apprendimento non supervisionato, per rinforzo, ecc.
+- [MERGE] 'Input' vs 'input' (score: 1.00) → In Machine Learning, la distinzione tra maiuscole e minuscole non influisce sull'identificazione delle entità, poiché entrambe si riferiscono al concetto di 'input'.
+- [MERGE] 'Output' vs 'output' (score: 1.00) → Le due entità differiscono solo per la maiuscola iniziale, ma in contesti di Machine Learning (ad esempio, variabili o etichette) la distinzione tra maiuscola e minuscola è spesso ignorata o considerata irrilevante.
+- [NUOVO] 'Dati di output' vs 'Dati di input' (score: 0.75) → I 'dati di output' sono i risultati prodotti da un modello o sistema, mentre i 'dati di input' sono quelli forniti in ingresso per l'elaborazione.
+- [NUOVO] 'Testing' vs 'Test' (score: 0.80) → Testing e Test sono termini distinti: 'Test' si riferisce generalmente all'atto di valutare un modello, mentre 'Testing' può includere anche la fase di convalida o altri aspetti del processo di valutazione.
+- [MERGE] 'Reinforcement Learning' vs 'Reinforcement learning' (score: 1.00) → Le due entità differiscono solo per la maiuscola iniziale, che non altera il significato nel contesto del Machine Learning.
+- [NUOVO] 'agent' vs 'Agent' (score: 1.00) → Differiscono solo per la maiuscola iniziale, che in alcuni contesti può indicare una distinzione semantica o di classe (es. 'agent' generico vs. 'Agent' come classe specifica).
+- [NUOVO] 'Q learning' vs 'Reinforcement learning' (score: 0.76) → Q-learning è un algoritmo specifico di Reinforcement Learning, che è un campo più ampio di metodi per apprendimento tramite ricompense.
+- [NUOVO] 'Q learning' vs 'Reinforcement learning' (score: 0.76) → Q-learning è un algoritmo specifico di Reinforcement Learning, che a sua volta è un paradigma più ampio di apprendimento automatico.
+- [MERGE] 'Unsupervised Learning' vs 'Unsupervised learning' (score: 1.00) → Le due entità sono identiche, la differenza tra maiuscola e minuscola nella prima lettera non influisce sul significato.
+- [MERGE] 'Machine Learning' vs 'Machine Learning' (score: 1.00) → Le due entità sono identiche sia nel nome che nel significato.
+- [MERGE] 'Supervised Learning' vs 'Supervised learning' (score: 1.00) → La differenza tra maiuscola e minuscola nella prima parola non influisce sul significato; entrambe si riferiscono allo stesso concetto di apprendimento supervisionato.
+- [MERGE] 'Input' vs 'input' (score: 1.00) → Le due entità differiscono solo per la maiuscola iniziale, ma in termini di significato e valore semantico sono identiche.
+- [MERGE] 'Output' vs 'output' (score: 1.00) → Le due entità differiscono solo per la maiuscola iniziale, ma in termini di significato e valore semantico sono identiche.
+- [MERGE] 'Reinforcement Learning' vs 'Reinforcement learning' (score: 1.00) → La differenza tra maiuscola e minuscola non influisce sul significato delle due entità, che si riferiscono entrambe alla stessa tecnica di apprendimento automatico.
+- [NUOVO] 'Apprendimento non supervisionato' vs 'Apprendimento supervisionato' (score: 0.94) → L'apprendimento non supervisionato e supervisionato sono due paradigmi distinti di Machine Learning: il primo non utilizza etichette, mentre il secondo sì.
+- [NUOVO] 'K-means' vs 'Clustering' (score: 0.73) → K-means è un algoritmo specifico di clustering, mentre il clustering è una tecnica generale di raggruppamento di dati.
+- [MERGE] 'ε' vs 'ε' (score: 1.00) → Le due entità sono identiche in rappresentazione e significato.

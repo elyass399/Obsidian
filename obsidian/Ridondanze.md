@@ -1,0 +1,3 @@
+# Ridondanze
+**tipo:** concetto
+

@@ -1,0 +1,3 @@
+# Social bias
+**tipo:** concetto
+
