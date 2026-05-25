@@ -66,10 +66,11 @@ def push_to_falkor(data: dict):
     print(f"Caricati: {len(data['entities'])} nodi, {len(data['relations'])} relazioni")
 
 # Main
-md_files = sorted(Path("./manuals").glob("*.md"))
-for md_file in md_files:
-    text = md_file.read_text(encoding="utf-8")
-    print(f"\nProcessing: {md_file.name}")
-    result = extract_entities(text)
-    push_to_falkor(result)
-print("\nDone — tutti i file processati.")
+if __name__ == "__main__":
+    md_files = sorted(Path("./manuals").glob("*.md"))
+    for md_file in md_files:
+        text = md_file.read_text(encoding="utf-8")
+        print(f"\nProcessing: {md_file.name}")
+        result = extract_entities(text)
+        push_to_falkor(result)
+    print("\nDone — tutti i file processati.")

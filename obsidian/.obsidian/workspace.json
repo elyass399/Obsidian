@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f1bd13378c7301f",
+        "id": "ccaf3bcaa5af7b58",
         "type": "tabs",
         "children": [
           {
-            "id": "36360fdb674c1eb4",
+            "id": "4d8b4520bd614a61",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -177,8 +177,9 @@
       "bases:Crea nuova Base": false
     }
   },
-  "active": "36360fdb674c1eb4",
+  "active": "4d8b4520bd614a61",
   "lastOpenFiles": [
+    "neurons.md",
     "Artificial Neural Network.md",
     "nervous system.md",
     "Dati di output.md"
