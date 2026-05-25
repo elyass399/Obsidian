@@ -3,3 +3,5 @@
 dati/
 __pycache__/
 *.pyc
+manuals/
+obsidian/
