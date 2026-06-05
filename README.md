@@ -59,4 +59,3 @@ wiki/
 
 ---
 
-*Built independently during internship at Graphify · 2026*
